@@ -3,5 +3,5 @@
 
 void Hello(void) {
     printf("Hello IPSA\n");
-    printf("SALUT c'est Nico\n")
+    printf("Ma version est la meilleure\n");
 }
